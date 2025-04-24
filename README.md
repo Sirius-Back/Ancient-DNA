@@ -34,6 +34,7 @@ This repository houses:
  - Notes and protocols summarizing best practices for wet-lab and computational work.
 
  - Curated references (papers, tutorials, and toolkits) that guided my learning in this rapidly evolving field.
+   (https://nf-co.re/eager/2.5.3; https://github.com/DReichLab/adna-workflow; https://uqrmaie1.github.io/admixtools/; https://mpi-eva-archaeogenetics.github.io/comp_human_adna_book/authentiCT.html)
 
 # Why This Matters
 Ancient DNA unlocks stories about human migration, adaptation, and disease history—but it demands rigor at every step, from extraction to interpretation. Here, I document my progress, share reusable code, and hope to collaborate with others passionate about uncovering the past.
